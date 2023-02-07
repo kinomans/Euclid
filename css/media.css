@@ -179,7 +179,10 @@
   .work-right__img {
     height: 949px;
   }
-
+  .questions__content-descr {
+    font-size: 14px;
+    line-height: 28px;
+  }
   .footer {
     padding: 40px;
   }
@@ -291,7 +294,10 @@
     line-height: 32px;
     margin-bottom: 25px;
   }
-
+  .questions__content-descr {
+    font-size: 13px;
+    line-height: 24px;
+  }
   .form {
     margin-bottom: 50px;
   }
@@ -498,7 +504,10 @@
     height: 30px;
     background-image: url("../img/according-tel.svg");
   }
-
+  .questions__content-descr {
+    font-size: 13px;
+    line-height: 24px;
+  }
   .footer {
     padding: 32px 14px;
   }
@@ -546,6 +555,10 @@
     width: 40px;
     height: 40px;
   }
+  .questions__content-descr {
+    font-size: 11px;
+    line-height: 22px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -563,6 +576,10 @@
   [type="search"] {
     font-size: 15px;
     line-height: 20px;
+  }
+  .questions__content-descr {
+    font-size: 11px;
+    line-height: 21px;
   }
 }
 @media (max-width: 420px) {
