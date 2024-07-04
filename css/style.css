@@ -115,11 +115,7 @@ p {
   list-style: none;
 }
 
-.list-reset {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
+
 
 ul {
   display: inline-block;
@@ -405,6 +401,7 @@ textarea {
   border-color: var(--dark--orange);
 }
 [type="search"] {
+  -webkit-appearance: none;
   outline-offset: -2px;
   outline: none;
   outline-offset: none;
