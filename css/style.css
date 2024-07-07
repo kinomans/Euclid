@@ -356,6 +356,7 @@ textarea {
   font-size: 100%;
   line-height: 1.15;
   margin: 0;
+  background: none;
 }
 
 .search {
@@ -418,6 +419,7 @@ textarea {
   font-size: 18px;
   line-height: 22px;
   color: #cacaca;
+  background: none;
 }
 
 .search-form input[type="search"]::-webkit-search-decoration,
@@ -426,6 +428,7 @@ textarea {
 .search-form input[type="search"]::-webkit-search-results-decoration {
   -webkit-appearance: none;
   appearance: none;
+  background: none;
 }
 
 .header__nav-list-item-search-svg:hover path {
