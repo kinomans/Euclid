@@ -356,7 +356,6 @@ textarea {
   font-size: 100%;
   line-height: 1.15;
   margin: 0;
-  background: none;
 }
 
 .search {
@@ -386,7 +385,7 @@ textarea {
 }
 
 .search-form__show {
-  top: 20px;
+  top: 15px;
   opacity: 1;
   right: 20px;
 }
@@ -420,7 +419,6 @@ textarea {
   font-size: 18px;
   line-height: 22px;
   color: #cacaca;
-  background: none !important;
 }
 
 .search-form input[type="search"]::-webkit-search-decoration,
