@@ -400,7 +400,7 @@ textarea {
   width: 412px;
   border: none;
   border-bottom: solid 1px #dcdcdc;
-  background: none;
+  background: none !important;
 }
 
 .header__search-icon-active-input:hover {
@@ -420,7 +420,7 @@ textarea {
   font-size: 18px;
   line-height: 22px;
   color: #cacaca;
-  background: none;
+  background: none !important;
 }
 
 .search-form input[type="search"]::-webkit-search-decoration,
