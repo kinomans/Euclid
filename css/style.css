@@ -385,9 +385,9 @@ textarea {
 }
 
 .search-form__show {
-  top: 15px;
+  top: 20px;
   opacity: 1;
-  right: 20px;
+  right: 15px;
 }
 
 .search-svg-size {
@@ -399,7 +399,6 @@ textarea {
   width: 412px;
   border: none;
   border-bottom: solid 1px #dcdcdc;
-  background: none !important;
 }
 
 .header__search-icon-active-input:hover {
@@ -419,6 +418,7 @@ textarea {
   font-size: 18px;
   line-height: 22px;
   color: #cacaca;
+  background: none !important;
 }
 
 .search-form input[type="search"]::-webkit-search-decoration,
