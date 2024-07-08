@@ -396,6 +396,7 @@ textarea {
 }
 
 .header__search-icon-active-input {
+  background: none;
   width: 412px;
   border: none;
   border-bottom: solid 1px #dcdcdc;
