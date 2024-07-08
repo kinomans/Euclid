@@ -403,10 +403,12 @@ textarea {
 }
 
 .header__search-icon-active-input:hover {
+  background: none;
   border-color: var(--accent--accent);
 }
 
 .header__search-icon-active-input:focus {
+  background: none;
   border-color: var(--dark--orange);
 }
 
